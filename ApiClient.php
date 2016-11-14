@@ -73,7 +73,7 @@ class ApiClient
         'menuPreferences'         => '\CL\DocData\Component\OrderApi\Type\MenuPreferences',
         'merchant'                => '\CL\DocData\Component\OrderApi\Type\Merchant',
         'misterCashPaymentInfo'   => '\CL\DocData\Component\OrderApi\Type\MisterCashPaymentInfo',
-        'name'                    => '\CL\DocData\Component\OrderApi\Type\name',
+        'name'                    => '\CL\DocData\Component\OrderApi\Type\Name',
         'payment'                 => '\CL\DocData\Component\OrderApi\Type\Payment',
         'paymentInfo'             => '\CL\DocData\Component\OrderApi\Type\PaymentInfo',
         'paymentPreferences'      => '\CL\DocData\Component\OrderApi\Type\PaymentPreferences',
