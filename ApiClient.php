@@ -15,7 +15,7 @@ use Psr\Log\NullLogger;
  */
 class ApiClient
 {
-    const VERSION = '1.2';
+    const VERSION = '1.3';
 
     /**
      * @var Type\Merchant
